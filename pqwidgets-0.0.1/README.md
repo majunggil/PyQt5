@@ -7,4 +7,4 @@ A PyQt5 QLabel extension with additional functionality like image display, auto-
 Install the package via pip:
 
 ```bash
-pip install PQButton
+pip install pqwidgets
