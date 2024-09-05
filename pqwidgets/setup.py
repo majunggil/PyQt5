@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='pqwidgets',
-    version='1.0.2',
+    version='1.0.7',
     description='A custom PyQt5 widgets package',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='majunggil',
-    author_email='majunggil.work@gmailc.om',
+    author_email='majunggil.work@gmail.com',
     url='https://github.com/majunggil/PyQt5/tree/main/pqwidgets',
     packages=find_packages(),
     install_requires=[
